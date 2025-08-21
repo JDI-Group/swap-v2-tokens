@@ -2,13 +2,13 @@
   "name": "Sensor Tokens",
   "logoURI": "https://raw.githubusercontent.com/JDI-Group/swap-v2-tokens/main/assets/mch.svg",
   "keywords": [
-    "geneva",
+    "hudson",
     "defi"
   ],
   "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 5167004,
+      "chainId": 177888,
       "address": "0x12F3b69C248609BAc6ABD24067bec75F540a098d",
       "name": "Wrap MCH Token",
       "symbol": "WMCH",
