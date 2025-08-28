@@ -1,6 +1,6 @@
 {
     "name": "Eth Tokens",
-    "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/ethereum-eth-logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/JDI-Group/swap-v2-tokens/main/assets/ethereum-eth-logo.svg",
     "keywords": [
       "Ethereum Chain",
       "defi"
@@ -10,10 +10,10 @@
       {
         "chainId": 1,
         "address": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
-        "name": "MXC Token",
-        "symbol": "MXC",
+        "name": "MCH Token",
+        "symbol": "MCH",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/moonchain.svg"
+        "logoURI": "https://raw.githubusercontent.com/JDI-Group/swap-v2-tokens/main/assets/moonchain.svg"
       }
     ],
     "version": {
