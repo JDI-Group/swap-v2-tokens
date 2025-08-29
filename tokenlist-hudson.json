@@ -14,6 +14,14 @@
       "symbol": "WMCH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/JDI-Group/swap-v2-tokens/main/assets/mch.svg"
+    },
+    {
+      "chainId": 177888,
+      "address": "0xE8b1a284fD651C486f6e37A16Ed8C2718F60671A",
+      "name": "ETest",
+      "symbol": "TEST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/JDI-Group/swap-v2-tokens/main/assets/mch.svg"
     }
   ],
   "version": {
